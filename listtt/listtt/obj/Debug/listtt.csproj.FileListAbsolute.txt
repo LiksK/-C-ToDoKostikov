@@ -1,0 +1,10 @@
+C:\Users\User\Kostikov\WindowForms\listtt\listtt\obj\Debug\listtt.csproj.AssemblyReference.cache
+C:\Users\User\Kostikov\WindowForms\listtt\listtt\obj\Debug\listtt.Form1.resources
+C:\Users\User\Kostikov\WindowForms\listtt\listtt\obj\Debug\listtt.Properties.Resources.resources
+C:\Users\User\Kostikov\WindowForms\listtt\listtt\obj\Debug\listtt.csproj.GenerateResource.cache
+C:\Users\User\Kostikov\WindowForms\listtt\listtt\obj\Debug\listtt.csproj.CoreCompileInputs.cache
+C:\Users\User\Kostikov\WindowForms\listtt\listtt\bin\Debug\listtt.exe.config
+C:\Users\User\Kostikov\WindowForms\listtt\listtt\bin\Debug\listtt.exe
+C:\Users\User\Kostikov\WindowForms\listtt\listtt\bin\Debug\listtt.pdb
+C:\Users\User\Kostikov\WindowForms\listtt\listtt\obj\Debug\listtt.exe
+C:\Users\User\Kostikov\WindowForms\listtt\listtt\obj\Debug\listtt.pdb
